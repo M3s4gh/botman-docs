@@ -1,5 +1,4 @@
 # Installation
-
 - [Installation & Setup](#installation-setup)
 - [Basic Usage](#basic-usage)
 - [Cache Drivers](#cache-drivers)
